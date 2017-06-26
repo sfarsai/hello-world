@@ -5,3 +5,6 @@
 ### [Light epic](https://github.com/sfarsai/hello-world/issues/2)   
 * Open   
 [#5 Lights stay on](https://github.com/sfarsai/hello-world/issues/5)   
+### *Issues with no epics*   
+* Open   
+[#8 Dangling issue](https://github.com/sfarsai/hello-world/issues/8)   
