@@ -95,7 +95,7 @@ function catalogIssues(res) {
     res.forEach(function (issue) {
         if (issue !== undefined) {
 			// Clean up the issue's title to remove any brackets "[]" from it
-			// for later sorting of the title.
+			// for later sorting of the epic title headings.
 			var cleanTitle = issue.title.replace('[', '');
 			cleanTitle = cleanTitle.replace(']', '');
 
