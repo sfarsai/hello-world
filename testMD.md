@@ -3,6 +3,12 @@ col1 | col2
 ---- | ----
 apple | orange
 plum | lemon
+
+* item1
+* item2
+   + item2a
+   + item2b
+
 ------
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
 * Open   
