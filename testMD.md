@@ -1,6 +1,6 @@
 ### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
-open | recently<br>closed | closed
----- | ---- | ----
+|open | recently<br>closed | closed |
+|---- | ---- | ---- |
 apple | orange | blossom
 lemon | merengue | pie
 
