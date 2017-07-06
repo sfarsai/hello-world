@@ -20,7 +20,7 @@ lemon | merengue | pie
 [#149 Emerson Request to sort on metadata and serial](https://github.com/iot-platform/Customers/issues/149)   
 
 
-## Customer | Open | Recently closed | Closed   
+Customer | Open | Recently closed | Closed   
 ---- | ---- | ---- | ----   
 Maersk|11|1|35   
 CAT|1|0|0   
