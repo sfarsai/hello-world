@@ -1,5 +1,5 @@
 ### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
-open | recently closed | closed
+open | recently<br/>closed | closed
 ---- | ---- | ----
 apple | orange | blossom
 lemon | merengue | pie
@@ -21,7 +21,7 @@ lemon | merengue | pie
 
 *Updated:  7/6/17*
 
-Customer | Open | Recently closed | Closed   
+Customer | Open | Recently<br/>closed | Closed   
 ---- | ---- | ---- | ----   
 Schneider|3|0|21   
 CAT|1|0|0   
