@@ -1,8 +1,8 @@
 ### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
-col1 | col2
----- | ----
-apple | orange
-plum | lemon
+open | recently closed | closed
+---- | ---- | ----
+apple | orange | blossom
+lemon | merengue | pie
 
 * item1
 * item2
