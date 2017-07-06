@@ -19,7 +19,7 @@ lemon | merengue | pie
 [#140 Emerson Questions to followup from 6/1-2 DevLab](https://github.com/iot-platform/Customers/issues/140)   
 [#149 Emerson Request to sort on metadata and serial](https://github.com/iot-platform/Customers/issues/149)   
 
-# July 5, 2017, updated by SteveF.
+*Updated:  7/6/17*
 
 Customer | Open | Recently closed | Closed   
 ---- | ---- | ---- | ----   
