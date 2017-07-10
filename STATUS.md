@@ -1,20 +1,20 @@
 Customer | Open | Recently<br> closed | Closed   
 ---- | :----: | :----: | :----:   
-General Pre-sales support|9|0|3   
-Maersk|11|2|16   
-Schneider PoC Phase 2|0|0|0   
-Blue Cow|0|0|0   
-Emerson|2|0|2   
-DHS|0|0|0   
+General Pre-sales support|9|0|7   
+Maersk|11|2|38   
+Schneider PoC Phase 2|0|0|1   
+Blue Cow|0|0|1   
+Emerson|2|0|6   
+DHS|0|0|1   
 CAT|1|0|0   
-Saritassa Issues for SI partner Saritassa|1|0|0   
+Saritassa Issues for SI partner Saritassa|1|0|1   
 Samsung - Paid POC (Week of May 22nd start)|0|0|0   
-Schneider|2|0|4   
+Schneider|2|0|21   
 Waste Management Cardboard Tracking POC|0|0|0   
-Weir Truck and Trailer tracking - PROD Deployment Support|3|1|1   
-USPS|0|0|0   
+Weir Truck and Trailer tracking - PROD Deployment Support|3|1|2   
+USPS|0|0|1   
 SmartCities - Support efforts related to SmartCities|1|0|1   
-Industrial Performance Monitoring|0|0|0   
+Industrial Performance Monitoring|0|0|1   
 HPE Partnership|0|0|2   
 Mercedes Van - Project Overview|1|0|0   
 AT&T CRE Bacnet POC |0|0|0   
@@ -45,7 +45,7 @@ AT&T CRE Bacnet POC |0|0|0
 [#139 [JM Family] - Confirm they are still using Flow](https://github.com/iot-platform/Customers/issues/139)   
 * Doing (1)   
 [#147 [Generic] Dashboard for all POC's](https://github.com/iot-platform/Customers/issues/147)   
-* Recently closed (0 of 3 total)   
+* Recently closed (0 of 7 total)   
 ### [HPE Partnership](https://github.com/iot-platform/Customers/issues/121)   
 * Recently closed (0 of 2 total)   
 ### [Industrial Performance Monitoring](https://github.com/iot-platform/Customers/issues/37)   
@@ -63,7 +63,7 @@ AT&T CRE Bacnet POC |0|0|0
 [#145 [Maersk] Investigate device with future date in location ](https://github.com/iot-platform/Customers/issues/145)   
 [#148 [Maersk] - Geofences for ports too small?](https://github.com/iot-platform/Customers/issues/148)   
 [#129 [Maersk] Customer Portal: Private Containers](https://github.com/iot-platform/Customers/issues/129)   
-* Recently closed (2 of 16 total)   
+* Recently closed (2 of 38 total)   
 [#138 [Maersk] Track bug with repeating data from Xirgos](https://github.com/iot-platform/Customers/issues/138) (7/6/2017)   
 [#151 [maersk] - 5802 Command generating XT_ERROR for some devices](https://github.com/iot-platform/Customers/issues/151) (7/6/2017)   
 ### [Mercedes Van - Project Overview](https://github.com/iot-platform/Customers/issues/32)   
@@ -79,7 +79,7 @@ AT&T CRE Bacnet POC |0|0|0
 [#58 [Schneider] FTP Firmware download](https://github.com/iot-platform/Customers/issues/58)   
 * Blocked (1)   
 [#59 [Schneider] Remove all unnecessary code from original Schneider flow project](https://github.com/iot-platform/Customers/issues/59)   
-* Recently closed (0 of 4 total)   
+* Recently closed (0 of 21 total)   
 ### [SmartCities - Support efforts related to SmartCities](https://github.com/iot-platform/Customers/issues/80)   
 * Acceptance (1)   
 [#150 [SmartCities] - Support remote rename and delete in FTP node](https://github.com/iot-platform/Customers/issues/150)   
@@ -91,7 +91,7 @@ AT&T CRE Bacnet POC |0|0|0
 [#47 [Weir] Requirements Gathering](https://github.com/iot-platform/Customers/issues/47)   
 [#124 [Weir] Set up Geo Tab account](https://github.com/iot-platform/Customers/issues/124)   
 [#156 [Weir] - Flow deployment phase 2 ](https://github.com/iot-platform/Customers/issues/156)   
-* Recently closed (1 of 1 total)   
+* Recently closed (1 of 2 total)   
 [#125 [Weir] Set up M2X Account and Organization](https://github.com/iot-platform/Customers/issues/125) (7/6/2017)   
 
 
