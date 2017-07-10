@@ -18,9 +18,11 @@ Industrial Performance Monitoring|0|0|1
 HPE Partnership|0|0|2   
 Mercedes Van - Project Overview|1|0|0   
 AT&T CRE Bacnet POC |0|0|0   
-
+----------
 ### [AT&T CRE Bacnet POC ](https://github.com/iot-platform/Customers/issues/123)   
+----------
 ### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
+----------
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
 * Follow Up (1)   
 [#25 [CAT] Invoice CB for CAT usage in Feb](https://github.com/iot-platform/Customers/issues/25)   
