@@ -42,9 +42,11 @@ Industrial Performance Monito...|0|0|1
 Saritassa Issues for SI partn...|1|0|1  
 
 ### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
+----------
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
 * Open (1)   
 [#25 [CAT] Invoice CB for CAT usage in Feb](https://github.com/iot-platform/Customers/issues/25)   
+----------
 ### [DHS](https://github.com/iot-platform/Customers/issues/16)   
 ### [Emerson](https://github.com/iot-platform/Customers/issues/12)   
 * Open (2)   
