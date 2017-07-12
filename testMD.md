@@ -9,6 +9,10 @@ lemon | merengue | pie
    + item2a
    + item2b
 
+Enhancement^E^
+
+Superscript^2^
+
 ------
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
 * Open   
