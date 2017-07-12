@@ -9,9 +9,9 @@ lemon | merengue | pie
    + item2a
    + item2b
 
-Enhancement^E^
+Enhancement<sup> E </sup)
 
-Superscript^2^
+Superscript<sup> 2 </sup)
 
 ------
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
