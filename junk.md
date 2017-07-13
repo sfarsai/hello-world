@@ -28,8 +28,8 @@
 * Doing (1)   
 [#147 [Generic] Dashboard for all POC's](https://github.com/iot-platform/Customers/issues/147)<sup> (E) </sup>   
 * Recently closed (2 of 9 total)   
-[#144 [CR England] - Demo integration to 3rd party Rabbit Broker](https://github.com/iot-platform/Customers/issues/144) (7/12/2017)<sup> (B) </sup>   
-[#139 [JM Family] - Confirm they are still using Flow](https://github.com/iot-platform/Customers/issues/139) (7/12/2017)<sup> (B) </sup>   
+[#144 [CR England] - Demo integration to 3rd party Rabbit Broker](https://github.com/iot-platform/Customers/issues/144) <sup></sup> (7/12/2017)   
+[#139 [JM Family] - Confirm they are still using Flow](https://github.com/iot-platform/Customers/issues/139) <sup></sup> (7/12/2017)   
 ### [HPE Partnership](https://github.com/iot-platform/Customers/issues/121)   
 * Recently closed (0 of 2 total)   
 ### [Industrial Performance Monitoring](https://github.com/iot-platform/Customers/issues/37)   
@@ -49,8 +49,8 @@
 [#148 [Maersk] - Geofences for ports too small?](https://github.com/iot-platform/Customers/issues/148)<sup> (E) </sup>   
 [#129 [Maersk] Customer Portal: Private Containers](https://github.com/iot-platform/Customers/issues/129)<sup> (E) </sup>   
 * Recently closed (2 of 38 total)   
-[#138 [Maersk] Track bug with repeating data from Xirgos](https://github.com/iot-platform/Customers/issues/138) (7/6/2017)<sup> (B) </sup>   
-[#151 [maersk] - 5802 Command generating XT_ERROR for some devices](https://github.com/iot-platform/Customers/issues/151) (7/6/2017)<sup> (B) </sup>   
+[#138 [Maersk] Track bug with repeating data from Xirgos](https://github.com/iot-platform/Customers/issues/138) <sup></sup> (7/6/2017)   
+[#151 [maersk] - 5802 Command generating XT_ERROR for some devices](https://github.com/iot-platform/Customers/issues/151) <sup></sup> (7/6/2017)   
 ### [Mercedes Van - Project Overview](https://github.com/iot-platform/Customers/issues/32)   
 * Follow Up (1)   
 [#155 [Mercedes Van] Generic Sample Portal](https://github.com/iot-platform/Customers/issues/155)<sup> (E) </sup>   
@@ -65,7 +65,7 @@
 * Blocked (1)   
 [#59 [Schneider] Remove all unnecessary code from original Schneider flow project](https://github.com/iot-platform/Customers/issues/59)<sup> (E) </sup>   
 * Recently closed (1 of 22 total)   
-[#6 [Schneider] PoC Phase 2](https://github.com/iot-platform/Customers/issues/6) (7/12/2017)<sup> (B) </sup>   
+[#6 [Schneider] PoC Phase 2](https://github.com/iot-platform/Customers/issues/6) <sup></sup> (7/12/2017)   
 ### [SmartCities - Support efforts related to SmartCities](https://github.com/iot-platform/Customers/issues/80)   
 * Acceptance (1)   
 [#150 [SmartCities] - Support remote rename and delete in FTP node](https://github.com/iot-platform/Customers/issues/150)<sup> (E) </sup>   
@@ -79,7 +79,7 @@
 [#124 [Weir] Set up Geo Tab account](https://github.com/iot-platform/Customers/issues/124)<sup> (E) </sup>   
 [#156 [Weir] - Flow deployment phase 2 ](https://github.com/iot-platform/Customers/issues/156)<sup> (E) </sup>   
 * Recently closed (1 of 2 total)   
-[#125 [Weir] Set up M2X Account and Organization](https://github.com/iot-platform/Customers/issues/125) (7/6/2017)<sup> (B) </sup>   
+[#125 [Weir] Set up M2X Account and Organization](https://github.com/iot-platform/Customers/issues/125) <sup></sup> (7/6/2017)   
 ### *Issues with no epics*   
 * Open (1)   
 [#161 [Weir] Embedd "commands api" scripts to flow](https://github.com/iot-platform/Customers/issues/161)<sup> (E) </sup>   
