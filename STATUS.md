@@ -1,99 +1,83 @@
-Customer | Open | Recently<br> closed | Closed   
----- | :----: | :----: | :----:   
-General Pre-sales support|9|0|7   
-Maersk|11|2|38   
-Schneider PoC Phase 2|0|0|1   
-Blue Cow|0|0|1   
-Emerson|2|0|6   
-DHS|0|0|1   
-CAT|1|0|0   
-Saritassa Issues for SI partner Saritassa|1|0|1   
-Samsung - Paid POC (Week of May 22nd start)|0|0|0   
-Schneider|2|0|21   
-Waste Management Cardboard Tracking POC|0|0|0   
-Weir Truck and Trailer tracking - PROD Deployment Support|3|1|2   
-USPS|0|0|1   
-SmartCities - Support efforts related to SmartCities|1|0|1   
-Industrial Performance Monitoring|0|0|1   
-HPE Partnership|0|0|2   
-Mercedes Van - Project Overview|1|0|0   
-AT&T CRE Bacnet POC |0|0|0   
-----------
-### [AT&T CRE Bacnet POC ](https://github.com/iot-platform/Customers/issues/123)   
-----------
-### [Blue Cow](https://github.com/iot-platform/Customers/issues/21)   
-----------
+Updated:&nbsp;&nbsp;*Thursday Mar 14, 2019*   
+
+Customer | Open | Recently<br> opened | Closed | Recently<br> closed   
+---- | :----: | :----: | :----: | :----:   
+Maersk|0|0|91|0   
+General Pre-sales support|1|0|60|1   
+Emerson|1|0|27|0   
+Schneider|0|0|25|0   
+Weir Truck and Trailer tracking - PROD Deployment Support|0|0|16|0   
+Cartasite|5|0|4|0   
+Boeing Geotab + Xirgo|0|0|7|0   
+SmartCities - Support efforts related to SmartCities|0|0|6|0   
+Auto Beacon|0|0|6|0   
+TraceIT|0|0|5|0   
+Razor|0|0|5|0   
+CarForce|0|0|4|0   
+FlexDrive POC for FlexDrive|0|0|3|0   
+Halliburton|2|2|1|0   
+Mercedes Van |0|0|2|0   
+Saritassa Issues for SI partner Saritassa|0|0|2|0   
+Bluedot Demo integration for Swift|0|0|2|0   
+Pizza Hut|0|0|2|0   
+Boeing (DF)|2|0|0|0   
+DHS|0|0|1|0   
+CAT|0|0|1|0   
+Industrial Performance Monitoring|0|0|1|0   
+USPS|0|0|1|0   
+Generators|0|0|1|0   
+NYC (Geotab)|1|1|0|0   
+Waste Management Cardboard Tracking POC|0|0|0|0   
+Samsung - Paid POC (Week of May 22nd start)|0|0|0|0   
+AT&T CRE Bacnet POC |0|0|0|0   
+Vendwatch PoC|0|0|0|0   
+Schlumberger|0|0|0|0   
+
+### [[AT&T CRE] Bacnet POC ](https://github.com/iot-platform/Customers/issues/123)   
+### [Auto Beacon](https://github.com/iot-platform/Customers/issues/345)   
+### [[Bluedot] Demo integration for Swift](https://github.com/iot-platform/Customers/issues/235)   
+### [[Boeing (DF)]](https://github.com/iot-platform/Customers/issues/396)   
+* Doing (2)   
+[#398&nbsp;&nbsp;[Boeing] Port Geotab flow to DataFlow.](https://github.com/iot-platform/Customers/issues/398) <sup>(house: White Walkers, priority: high) </sup> <sup>*(45 days)*</sup>   
+[#399&nbsp;&nbsp;[Boeing] Geotab component in DataFlow broker.](https://github.com/iot-platform/Customers/issues/399) <sup>(enhancement, priority: high) </sup> <sup>*(45 days)*</sup>   
+### [[Boeing] Geotab + Xirgo](https://github.com/iot-platform/Customers/issues/355)   
 ### [CAT](https://github.com/iot-platform/Customers/issues/26)   
-* Follow Up (1)   
-[#25 [CAT] Invoice CB for CAT usage in Feb](https://github.com/iot-platform/Customers/issues/25)   
+### [CarForce](https://github.com/iot-platform/Customers/issues/344)   
+### [[Cartasite]](https://github.com/iot-platform/Customers/issues/381)   
+* Doing (5)   
+[#382&nbsp;&nbsp;[Cartasite] Port to DataFlow](https://github.com/iot-platform/Customers/issues/382) <sup></sup> <sup>*(177 days)*</sup>   
+[#392&nbsp;&nbsp;[Cartasite] - Xirgo PCR with PIDs](https://github.com/iot-platform/Customers/issues/392) <sup></sup> <sup>*(76 days)*</sup>   
+[#397&nbsp;&nbsp;[Cartasite] Reconfigure Devices for DataFlow](https://github.com/iot-platform/Customers/issues/397) <sup></sup> <sup>*(49 days)*</sup>   
+[#402&nbsp;&nbsp;[Cartasite] Not seeing Reason Code 3, 4 or 9](https://github.com/iot-platform/Customers/issues/402) <sup>(bug) </sup> <sup>*(29 days)*</sup>   
+[#404&nbsp;&nbsp;[Cartasite] Data Field Calculations](https://github.com/iot-platform/Customers/issues/404) <sup>(priority: high) </sup> <sup>*(14 days)*</sup>   
 ### [DHS](https://github.com/iot-platform/Customers/issues/16)   
 ### [Emerson](https://github.com/iot-platform/Customers/issues/12)   
-* Acceptance (1)   
-[#140 [Emerson] Questions to followup from 6/1-2 DevLab](https://github.com/iot-platform/Customers/issues/140)   
-* Next - Prioritized (1)   
-[#149 [Emerson] Request to sort on metadata and serial](https://github.com/iot-platform/Customers/issues/149)   
-* Recently closed (0 of 2 total)   
+### [[FlexDrive] POC for FlexDrive](https://github.com/iot-platform/Customers/issues/228)   
 ### [General Pre-sales support](https://github.com/iot-platform/Customers/issues/4)   
-* Follow Up (3)   
-[#39 Benefits Slide for M2X with Azure/AWS/IBM](https://github.com/iot-platform/Customers/issues/39)   
-[#141 [Internal] Maersk Portal Demo - for Chris Penrose](https://github.com/iot-platform/Customers/issues/141)   
-[#153 [WNC Sales] - AT&T branded Red Bull portal](https://github.com/iot-platform/Customers/issues/153)   
-* Blocked (3)   
-[#118 B&B Smartworx powerd by Advantech - IoT Platform Integration](https://github.com/iot-platform/Customers/issues/118)   
-[#23 [General] Positioning versus AWS/Mongo for Vivint](https://github.com/iot-platform/Customers/issues/23)   
-[#28 [General] Episensor interested in being listed hardware platform](https://github.com/iot-platform/Customers/issues/28)   
-* Acceptance (2)   
-[#144 [CR England] - Demo integration to 3rd party Rabbit Broker](https://github.com/iot-platform/Customers/issues/144)   
-[#139 [JM Family] - Confirm they are still using Flow](https://github.com/iot-platform/Customers/issues/139)   
 * Doing (1)   
-[#147 [Generic] Dashboard for all POC's](https://github.com/iot-platform/Customers/issues/147)   
-* Recently closed (0 of 7 total)   
-### [HPE Partnership](https://github.com/iot-platform/Customers/issues/121)   
-* Recently closed (0 of 2 total)   
+[#331&nbsp;&nbsp;[FedEx] - Binary Xirgo 4971D](https://github.com/iot-platform/Customers/issues/331) <sup>(activity: presale) </sup> <sup>*(414 days)*</sup>   
+* Recently closed (1 of 60)   
+[#403&nbsp;&nbsp;Global Data Solutions](https://github.com/iot-platform/Customers/issues/403) <sup></sup> <sup>*(03/12/19)*</sup>   
+### [Generators](https://github.com/iot-platform/Customers/issues/365)   
+### [[Halliburton]](https://github.com/iot-platform/Customers/issues/407)   
+* Unprioritized (2)   
+[#408&nbsp;&nbsp;[Halliburton] Implementation Review](https://github.com/iot-platform/Customers/issues/408) <sup></sup> <sup>*(2 days)*</sup>   
+[#409&nbsp;&nbsp;[Halliburton]  Load test](https://github.com/iot-platform/Customers/issues/409) <sup></sup> <sup>*(2 days)*</sup>   
 ### [Industrial Performance Monitoring](https://github.com/iot-platform/Customers/issues/37)   
 ### [Maersk](https://github.com/iot-platform/Customers/issues/19)   
-* Next - Prioritized (2)   
-[#84 [Maersk] Allow device settings to be changed](https://github.com/iot-platform/Customers/issues/84)   
-[#157 [Maersk] - Analyze the data](https://github.com/iot-platform/Customers/issues/157)   
-* Doing (9)   
-[#112 [Maersk] Block duplicate Dry Container associations](https://github.com/iot-platform/Customers/issues/112)   
-[#62 [Maersk] Lookup location and fill timestamps when no GPS lock.](https://github.com/iot-platform/Customers/issues/62)   
-[#89 [Maersk] Extended Location History with 'Shipment Legs'](https://github.com/iot-platform/Customers/issues/89)   
-[#119 [Maersk] Bug: IE 11 User Login Fix](https://github.com/iot-platform/Customers/issues/119)   
-[#137 [Maersk] Add/Edit Geofences](https://github.com/iot-platform/Customers/issues/137)   
-[#142 [Maersk] UI never loads for device with no data in most streams](https://github.com/iot-platform/Customers/issues/142)   
-[#145 [Maersk] Investigate device with future date in location ](https://github.com/iot-platform/Customers/issues/145)   
-[#148 [Maersk] - Geofences for ports too small?](https://github.com/iot-platform/Customers/issues/148)   
-[#129 [Maersk] Customer Portal: Private Containers](https://github.com/iot-platform/Customers/issues/129)   
-* Recently closed (2 of 38 total)   
-[#138 [Maersk] Track bug with repeating data from Xirgos](https://github.com/iot-platform/Customers/issues/138) (7/6/2017)   
-[#151 [maersk] - 5802 Command generating XT_ERROR for some devices](https://github.com/iot-platform/Customers/issues/151) (7/6/2017)   
-### [Mercedes Van - Project Overview](https://github.com/iot-platform/Customers/issues/32)   
+### [Mercedes Van ](https://github.com/iot-platform/Customers/issues/32)   
+### [[NYC (Geotab)]](https://github.com/iot-platform/Customers/issues/405)   
 * Doing (1)   
-[#155 [Mercedes Van] Generic Sample Portal](https://github.com/iot-platform/Customers/issues/155)   
-### [Samsung - Paid POC (Week of May 22nd start)](https://github.com/iot-platform/Customers/issues/91)   
-### [Saritassa Issues for SI partner Saritassa](https://github.com/iot-platform/Customers/issues/94)   
-* Acceptance (1)   
-[#93 [National Signal] Overall Project Tracking](https://github.com/iot-platform/Customers/issues/93)   
-### [Schneider PoC Phase 2](https://github.com/iot-platform/Customers/issues/6)   
+[#406&nbsp;&nbsp;[NYC] Port existing Geotab FlowDesigner flow to DataFlow.](https://github.com/iot-platform/Customers/issues/406) <sup>(priority: high) </sup> <sup>*(7 days)*</sup>   
+### [Pizza Hut](https://github.com/iot-platform/Customers/issues/390)   
+### [Razor](https://github.com/iot-platform/Customers/issues/346)   
+### [[Samsung] - Paid POC (Week of May 22nd start)](https://github.com/iot-platform/Customers/issues/91)   
+### [[Saritassa] Issues for SI partner Saritassa](https://github.com/iot-platform/Customers/issues/94)   
+### [Schlumberger](https://github.com/iot-platform/Customers/issues/401)   
 ### [Schneider](https://github.com/iot-platform/Customers/issues/30)   
-* Acceptance (1)   
-[#58 [Schneider] FTP Firmware download](https://github.com/iot-platform/Customers/issues/58)   
-* Blocked (1)   
-[#59 [Schneider] Remove all unnecessary code from original Schneider flow project](https://github.com/iot-platform/Customers/issues/59)   
-* Recently closed (0 of 21 total)   
-### [SmartCities - Support efforts related to SmartCities](https://github.com/iot-platform/Customers/issues/80)   
-* Acceptance (1)   
-[#150 [SmartCities] - Support remote rename and delete in FTP node](https://github.com/iot-platform/Customers/issues/150)   
-* Recently closed (0 of 1 total)   
+### [[SmartCities] - Support efforts related to SmartCities](https://github.com/iot-platform/Customers/issues/80)   
+### [TraceIT](https://github.com/iot-platform/Customers/issues/217)   
 ### [USPS](https://github.com/iot-platform/Customers/issues/46)   
-### [Waste Management Cardboard Tracking POC](https://github.com/iot-platform/Customers/issues/69)   
-### [Weir Truck and Trailer tracking - PROD Deployment Support](https://github.com/iot-platform/Customers/issues/48)   
-* Doing (3)   
-[#47 [Weir] Requirements Gathering](https://github.com/iot-platform/Customers/issues/47)   
-[#124 [Weir] Set up Geo Tab account](https://github.com/iot-platform/Customers/issues/124)   
-[#156 [Weir] - Flow deployment phase 2 ](https://github.com/iot-platform/Customers/issues/156)   
-* Recently closed (1 of 2 total)   
-[#125 [Weir] Set up M2X Account and Organization](https://github.com/iot-platform/Customers/issues/125) (7/6/2017)   
-
-
+### [Vendwatch PoC](https://github.com/iot-platform/Customers/issues/309)   
+### [[Waste Management] Cardboard Tracking POC](https://github.com/iot-platform/Customers/issues/69)   
+### [[Weir] Truck and Trailer tracking - PROD Deployment Support](https://github.com/iot-platform/Customers/issues/48)   
